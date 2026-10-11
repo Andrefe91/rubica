@@ -126,6 +126,12 @@ GEM
       raabro (~> 1.4)
     globalid (1.4.0)
       activesupport (>= 6.1)
+    herb (0.11.0-aarch64-linux-gnu)
+    herb (0.11.0-aarch64-linux-musl)
+    herb (0.11.0-arm-linux-gnu)
+    herb (0.11.0-arm-linux-musl)
+    herb (0.11.0-x86_64-linux-gnu)
+    herb (0.11.0-x86_64-linux-musl)
     i18n (1.15.2)
       concurrent-ruby (~> 1.0)
     image_processing (1.14.0)
@@ -390,6 +396,7 @@ DEPENDENCIES
   capybara
   cssbundling-rails
   debug
+  herb (~> 0.11.0)
   image_processing (~> 1.2)
   jbuilder
   jsbundling-rails
