@@ -14,6 +14,26 @@
     "@hotwired/stimulus": "^3.2.2",
     "@hotwired/turbo-rails": "^8.0.23",
     "@tailwindcss/cli": "^4.3.0",
+    "daisyui": "^5.7.47",
     "tailwindcss": "^4.3.3"
-  }
+  },
+  "version": "1.0.0",
+  "description": "This README would normally document whatever steps are necessary to get the application up and running.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andrefe91/rubica.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Andrefe91/rubica/issues"
+  },
+  "homepage": "https://github.com/Andrefe91/rubica#readme"
 }

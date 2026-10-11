@@ -70,3 +70,5 @@ group :test do
 end
 
 gem "herb", "~> 0.11.0"
+
+gem "tailwindcss-rails", "~> 4.6"
