@@ -69,6 +69,6 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem "herb", "~> 0.11.0"
+gem "herb", "~> 0.11.1"
 
 gem "tailwindcss-rails", "~> 4.6"
